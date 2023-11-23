@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "*.lex": "jflex",
+        "plyconfig.json": "jsonc"
+    }
+}
